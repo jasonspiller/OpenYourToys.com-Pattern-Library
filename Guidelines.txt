@@ -1,0 +1,5 @@
+- Make sure you consider all devices
+- Always denote whether things are required or not
+- Consider all permutations
+- Be as specific as possible about how things work
+- Always strive for accessibility
